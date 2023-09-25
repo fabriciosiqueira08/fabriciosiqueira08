@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabrício</h1>
 <h3 align="center">Full-Stack developer, I'm a JavaScript NodeJs and React enthusiast, always looking for new knowledge and I'm very curious</h3>
 
-- 🌱 I’m currently learning **Phyton,Flutter,VUEjs**
+- 🌱 I’m currently learning **Phyton,Flutter,next**
 
 - 💬 Ask me about **react, nodejs, docker**
 
