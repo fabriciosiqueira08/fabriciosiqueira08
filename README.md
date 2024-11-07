@@ -44,11 +44,24 @@
 
 ###
 
-<h3 align="left">GitHub Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciosiqueira08&show_icons=true&locale=en&theme=radical" alt="fabriciosiqueira08" /></p>
+<div align="center">
+  <h2>📊 My GitHub Stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciosiqueira08&theme=radical" alt="Sequência de commits de Fabricio" /></p>
+  <!-- GitHub Stats -->
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciosiqueira08&show_icons=true&locale=en&theme=radical" alt="Fabricio Siqueira's GitHub Stats" />
+  </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabriciosiqueira08&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!-- Activity Graph -->
+  <p>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabriciosiqueira08&theme=dracula" alt="Fabricio Siqueira's GitHub Activity Graph"/>
+    </a>
+  </p>
 
-![Jogo da Cobrinha](https://github.com/fabriciosiqueira08/fabriciosiqueira08/blob/output/snake.svg)
+  <!-- Snake Game Contributions -->
+  <h3>🐍 Snake Game - Contributions</h3>
+  <p>
+    <img src="https://github.com/fabriciosiqueira08/fabriciosiqueira08/blob/output/snake.svg" alt="Snake game animation of contributions" />
+  </p>
+</div>
