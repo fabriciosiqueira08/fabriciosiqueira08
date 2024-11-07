@@ -42,6 +42,11 @@
   <img width="12" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciosiqueira08&show_icons=true&locale=en&layout=compact" alt="fabriciosiqueira08" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciosiqueira08&show_icons=true&locale=en" alt="fabriciosiqueira08" /></p>
+<h3 align="left">GitHub Stats</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciosiqueira08&show_icons=true&locale=en&theme=radical" alt="fabriciosiqueira08" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciosiqueira08&theme=radical" alt="Sequência de commits de Fabricio" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabriciosiqueira08&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
