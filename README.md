@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Fabrício</h1>
-<h3 align="center">Full-Stack developer, I'm a JavaScript NodeJs and React enthusiast, always looking for new knowledge and I'm very curious</h3>
+<h1 align="center">Hi 👋</h1>
 
-- 🌱 I’m currently learning **Rust,Flutter,NextJS e C++**
+<p align="left">
+  I'm Fabricio Siqueira, a passionate software development enthusiast with a deep love for coding. I'm currently studying Control and Automation Engineering at the Federal University of Ouro Preto, and I've recently started my journey as a software developer.
+  <br><br>
+  - 🔭 I’m working on the revival of the classic game Gunbound, collaborating with Inside Code Ltda. to bring this exciting project to life.
+  <br>
+  - 💼 Previously, I contributed to projects through Automic Jr., including one for UCJ (UFMG's junior company). I developed a script for data processing, reading data from Pipefy and generating comprehensive internal reports for the HR, Finance, Projects, and Marketing departments.
+  <br>
+  - 📱 Currently, I'm also involved in a project for SEEM (Semana de Estudos da Escola de Minas, in english: School of Mines Study Week), creating an Expo-based app for QR code scanning to track event attendance. This app includes features such as login, QR code generation for participants, and attendance reports with essential participant data.
+  <br>
+  - 📚 I’m currently learning Electron and Rust, to expand my skill set and bring more versatility to my development work.
+</p>
 
-- 💬 Ask me about **react, nodejs, phyton**
+###
 
 - 📫 How to reach me **fabricio.siqueira@aluno.ufop.edu.br**
 
@@ -12,8 +21,26 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fabricio-henrique-b811a7250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fabricio-henrique-b811a7250/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="left">🛠 Languages and Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriciosiqueira08&show_icons=true&locale=en&layout=compact" alt="fabriciosiqueira08" /></p>
 
