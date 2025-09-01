@@ -1,69 +1,103 @@
-<h1 align="center">Hi 👋</h1>
-
-<p align="left">
-  I'm Fabricio Siqueira, a passionate software development enthusiast with a deep love for coding. I'm currently studying Control and Automation Engineering at the Federal University of Ouro Preto, and I've recently started my journey as a software developer.
-  <br><br>
-  - 🔭 I’m working on the revival of the classic game Gunbound, collaborating with Inside Code Ltda. to bring this exciting project to life.
-  <br>
-  - 💼 Previously, I contributed to projects through Automic Jr., including one for UCJ (UFMG's junior company). I developed a script for data processing, reading data from Pipefy and generating comprehensive internal reports for the HR, Finance, Projects, and Marketing departments.
-  <br>
-  - 📱 Currently, I'm also involved in a project for SEEM (Semana de Estudos da Escola de Minas, in english: School of Mines Study Week), creating an Expo-based app for QR code scanning to track event attendance. This app includes features such as login, QR code generation for participants, and attendance reports with essential participant data.
-  <br>
-  - 📚 I’m currently learning Electron and Rust, to expand my skill set and bring more versatility to my development work.
-</p>
-
-###
-
-- 📫 How to reach me **fabricio.siqueira@aluno.ufop.edu.br**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fabricio-henrique-b811a7250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fabricio-henrique-b811a7250/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-</div>
-
-###
+# Hi there! 👋 I'm Fabrício Henrique Siqueira
 
 <div align="center">
-  <h2>📊 My GitHub Stats</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Tools+Specialist;TypeScript+%26+React+Expert;Node.js+Developer" alt="Typing SVG" />
+</div>
 
-  <!-- GitHub Stats -->
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabriciosiqueira08&show_icons=true&locale=en&theme=radical" alt="Fabricio Siqueira's GitHub Stats" />
-  </p>
+## 🚀 About Me
 
-  <!-- Activity Graph -->
-  <p>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabriciosiqueira08&theme=dracula" alt="Fabricio Siqueira's GitHub Activity Graph"/>
-    </a>
-  </p>
+I'm a passionate **Full Stack Developer** specializing in **AI-integrated development**, **TypeScript**, **React**, and **Node.js**. Currently studying Control and Automation Engineering at UFOP and working on high-scale applications with cutting-edge AI development tools.
 
-  <!-- Snake Game Contributions -->
-  <h3>🐍 Snake Game - Contributions</h3>
-  <p>
-    <img src="https://github.com/fabriciosiqueira08/fabriciosiqueira08/blob/output/snake.svg" alt="Snake game animation of contributions" />
-  </p>
+- 🔭 **Currently working at**: Inside Code Ltda. on the **GunBound GGH** revival project
+- 🤖 **AI Specialist**: Expert in advanced AI tools like **Cursor**, **Claude Code** and **CodeRabbit**
+- 🛠️ **Building**: Modern admin panels, scalable web/mobile applications, and AWS-integrated solutions
+- 📚 **Learning**: Always exploring new technologies and AI-driven development approaches
+- 📧 **Contact**: fabricio.siqueiradev@gmail.com
+
+## 🛠️ Tech Stack & Expertise
+
+### **Core Technologies**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,nextjs,express" />
+</div>
+
+### **Databases & Cloud**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws,mongodb,postgresql,dynamodb" />
+</div>
+
+### **Development & Tools**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,jest,cypress,linux" />
+</div>
+
+### **AI Development Tools**
+- 🧠 **Cursor** - AI-powered IDE
+- 🤖 **Claude Code** - Command-line AI assistant
+- 🔍 **CodeRabbit** - AI code review for GitHub PRs
+- 📋 **MCP (Jira)** - AI-enhanced project management
+
+## 🏆 Key Projects & Achievements
+
+### 🎮 **GunBound GGH Official**
+- **Tech**: Next.js, TypeScript and AWS Lambda 
+- **Role**: Full Stack development
+
+### 📱 **UFOP Event Management System**
+- **Features**: QR code automation, real-time attendance tracking
+- **Tech**: React Native, Expo, automated Excel reporting
+
+### 🏢 **Enterprise Automation Solutions**
+- **Scope**: HR, Finance, Marketing process optimization
+- **Tools**: Python, Pipefy, Excel automation
+- **Company**: Junior company UCJ (UFMG)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciosiqueira08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciosiqueira08&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 📈 Activity & Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabriciosiqueira08&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/fabriciosiqueira08/fabriciosiqueira08/blob/output/snake.svg" alt="Snake animation" />
+</div>
+
+## 🎓 Education & Languages
+
+**🎓 Bachelor's in Control and Automation Engineering**  
+Federal University of Ouro Preto (UFOP) | 2023 - Present
+
+**🌐 Languages**
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (Intermediate)
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-henrique-siqueira)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabriciosiqueira08)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquefabricio008@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fabriciosiqueira08&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
+
+<div align="center">
+  
+**💡 "Combining traditional development with cutting-edge AI tools to build the future of software"**
+
 </div>
