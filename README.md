@@ -9,7 +9,7 @@
 I'm a passionate **Full Stack Developer** specializing in **AI-integrated development**, **TypeScript**, **React**, and **Node.js**. Currently studying Control and Automation Engineering at UFOP and working on high-scale applications with cutting-edge AI development tools.
 
 - 🔭 **Currently working at**: Inside Code Ltda. on the **GunBound GGH** revival project
-- 🤖 **AI Specialist**: Expert in advanced AI tools like **Cursor**, **Claude Code** and **CodeRabbit**
+- 🤖 **AI Specialist**: Expert in advanced AI tools like **Cursor**, **Claude Code**, **Codex** and **CodeRabbit**
 - 🛠️ **Building**: Modern admin panels, scalable web/mobile applications, and AWS-integrated solutions
 - 📚 **Learning**: Always exploring new technologies and AI-driven development approaches
 - 📧 **Contact**: fabricio.siqueiradev@gmail.com
