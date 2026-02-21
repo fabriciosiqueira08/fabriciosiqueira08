@@ -1,17 +1,16 @@
 # Hi there! 👋 I'm Fabrício Henrique Siqueira
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Tools+Specialist;TypeScript+%26+React+Expert;Node.js+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Full+Stack+Engineer;React+Native+Expert;AI+Tools+Specialist" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** specializing in **AI-integrated development**, **TypeScript**, **React**, and **Node.js**. Currently studying Control and Automation Engineering at UFOP and working on high-scale applications with cutting-edge AI development tools.
+I'm a highly driven **Software Engineer** specializing in **Mobile Development (React Native/Expo)**, **Modern UIs**, and **AI-integrated workflows**. I thrive on taking projects from end to end—from crafting complex frontends and sleek interfaces to configuring CI/CD pipelines and deploying high-scale applications.
 
-- 🔭 **Currently working at**: Inside Code Ltda. on the **GunBound GGH** revival project
-- 🤖 **AI Specialist**: Expert in advanced AI tools like **Cursor**, **Claude Code**, **Codex** and **CodeRabbit**
-- 🛠️ **Building**: Modern admin panels, scalable web/mobile applications, and AWS-integrated solutions
-- 📚 **Learning**: Always exploring new technologies and AI-driven development approaches
+- 🔭 **Currently working at**: Avante7 Marketing e Consultoria Ltda. as a Mobile Developer.
+- 📱 **Building**: A comprehensive Sales CRM mobile application. I manage the entire lifecycle, from the frontend architecture to App Store/Google Play deployments and Push Notifications.
+- 🧠 **Currently learning**: Metaheuristics, OPL Mathematical Models, and advanced optimization techniques.
 - 📧 **Contact**: fabricio.siqueiradev@gmail.com
 
 ## 🛠️ Tech Stack & Expertise
@@ -21,42 +20,59 @@ I'm a passionate **Full Stack Developer** specializing in **AI-integrated develo
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,nextjs,express" />
 </div>
 
+### **Mobile & UI**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,apple,android,tailwind,figma" />
+</div>
+
 ### **Databases & Cloud**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws,mongodb,postgresql,dynamodb" />
 </div>
 
-### **Development & Tools**
+### **Development, DevOps & Tools**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,jest,cypress,linux" />
 </div>
 
-### **AI Development Tools**
-- 🧠 **Cursor** - AI-powered IDE
-- 🤖 **Claude Code** - Command-line AI assistant
-- 🔍 **CodeRabbit** - AI code review for GitHub PRs
-- 📋 **MCP (Jira)** - AI-enhanced project management
+---
 
-## 🏆 Key Projects & Achievements
+## 🤖 AI-Driven Development Workflow
 
-### 🎮 **GunBound GGH Official**
-- **Tech**: Next.js, TypeScript and AWS Lambda 
-- **Role**: Full Stack development
+I actively integrate state-of-the-art AI tools into my engineering process to supercharge development speed, ensure strict code quality, and tackle complex architectural challenges.
+
+* **Cursor IDE:** My primary environment for AI-assisted coding, enabling rapid prototyping, intelligent refactoring, and context-aware bug resolution.
+* **Claude Code:** Terminal-based AI assistant utilized for deep architectural analysis, complex codebase-wide modifications, and task automation.
+* **CodeRabbit:** Automated AI code review integration for GitHub PRs, ensuring high standards of security, performance, and best practices before any merge.
+* **MCP (Jira):** AI-enhanced workflow management to keep development velocity perfectly aligned with project scopes and deliverables.
+
+---
+
+## 🏆 Key Experience & Projects
+
+### 📱 **Avante7 Marketing e Consultoria - Sales CRM Mobile App**
+- **Tech**: React Native, Expo, CI/CD, Push Notifications
+- **Impact**: Engineered the complete frontend architecture with a modern, highly responsive UI. Single-handedly managed the application's build processes, CI/CD pipeline configurations, and end-to-end successful deployments to both the Apple App Store and Google Play Store.
+
+### 🎮 **Inside Code Ltda. - GunBound Revival**
+- **Tech**: Next.js, TypeScript, AWS Lambda 
+- **Impact**: Developed the highly complex administrative panel. Architected and integrated the comprehensive Avatar Creation system, handling intricate routing, dynamic state management, and full frontend-backend API integrations to deliver a seamless user experience.
 
 ### 📱 **UFOP Event Management System**
-- **Features**: QR code automation, real-time attendance tracking
-- **Tech**: React Native, Expo, automated Excel reporting
+- **Tech**: React Native, Expo, Python
+- **Impact**: Built a mobile solution for QR code automation and real-time attendance tracking, integrated with automated Excel reporting.
 
-### 🏢 **Enterprise Automation Solutions**
-- **Scope**: HR, Finance, Marketing process optimization
-- **Tools**: Python, Pipefy, Excel automation
-- **Company**: Junior company UCJ (UFMG)
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciosiqueira08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciosiqueira08&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciosiqueira08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciosiqueira08&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciosiqueira08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 Activity & Contributions
@@ -71,10 +87,12 @@ I'm a passionate **Full Stack Developer** specializing in **AI-integrated develo
   <img src="https://github.com/fabriciosiqueira08/fabriciosiqueira08/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
+---
+
 ## 🎓 Education & Languages
 
-**🎓 Bachelor's in Control and Automation Engineering**  
-Federal University of Ouro Preto (UFOP) | 2023 - Present
+**🎓 Bachelor's in Control and Automation Engineering**
+Federal University of Ouro Preto (UFOP) | In Progress
 
 **🌐 Languages**
 - 🇧🇷 Portuguese (Native)
@@ -98,6 +116,6 @@ Federal University of Ouro Preto (UFOP) | 2023 - Present
 
 <div align="center">
   
-**💡 "Combining traditional development with cutting-edge AI tools to build the future of software"**
+**💡 "Combining end-to-end architecture with cutting-edge AI tools to build the future of software."**
 
 </div>
