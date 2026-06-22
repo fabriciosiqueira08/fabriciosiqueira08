@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** highly focused on the **React and React Native** ecosystems, with a proven track record of taking full ownership of application lifecycles—from architectural design to production deployment. I am deeply passionate about building scalable architectures guided by **Feature-Sliced Design (FSD)** and **Domain-Driven Design (DDD)**, always ensuring code reliability through **Test-Driven Development (TDD)**.
+I'm a **Software Engineer** highly focused on the **React and React Native** ecosystems, with a proven track record of taking full ownership of application lifecycles, from architectural design to production deployment. I am deeply passionate about building scalable architectures guided by **Feature-Sliced Design (FSD)** and **Domain-Driven Design (DDD)**, always ensuring code reliability through **Test-Driven Development (TDD)**.
 
 My greatest strategic differentiator is the advanced integration of **Artificial Intelligence into my development workflow**. By automating pipelines, code reviews, and infrastructure tasks, I maximize continuous value delivery and team productivity.
 
