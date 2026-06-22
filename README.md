@@ -66,11 +66,6 @@ I build software using state-of-the-art AI tools to accelerate delivery without 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabriciosiqueira08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=36BCF7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciosiqueira08&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=36BCF7" width="48%" />
-</div>
-
 <br/>
 
 <div align="center">
