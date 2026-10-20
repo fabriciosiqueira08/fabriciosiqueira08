@@ -64,9 +64,9 @@ I build software using state-of-the-art AI tools to accelerate delivery without 
 - **Ecosystem:** Next.js 15, TypeScript, AWS (Lambda, API Gateway, DynamoDB, Cognito).
 - **Impact:** Contributed to building the administrative panel utilizing a *100% serverless architecture*. Worked on a high-visibility international project (in partnership with GRAVITY Co. Ltd., South Korea), developing highly performant and accessible interfaces (Shadcn UI).
 
-### ⚙️ **Automic Jr. - Event Management System**
-- **Ecosystem:** React Native, Expo, Node.js, Python, Pipefy API.
-- **Impact:** Delivered an effective mobile solution for real-time QR code credentialing and automated reporting, successfully bridging multiple business sectors.
+### ⚙️ **Automic Jr. - SEEM 2025 Event Management System**
+- **Ecosystem:** React Native, Expo, Firebase, Node.js (Express, PostgreSQL, Redis), Google Cloud Functions, Python, Pipefy API.
+- **Impact:** Delivered the event app for SEEM 2025 (UFOP) with real-time QR code credentialing, attendance tracking and automated reports (XLSX/PDF), successfully bridging multiple business sectors. The backend started as an Express + PostgreSQL + Redis API and was later moved to serverless Google Cloud Functions with Firestore, JWT auth with token blacklist and DDD.
 
 ### 🎓 **SEEM XXIII (UFOP) - Official Event Platform**
 Full platform for the XXIII Semana de Estudos da Escola de Minas, built through Automic Jr. Three repos, one product:
