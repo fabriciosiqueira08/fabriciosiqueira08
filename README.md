@@ -23,7 +23,11 @@ My greatest strategic differentiator is the advanced integration of **Artificial
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,postgres,aws,dynamodb,docker,git,github,linux,figma,jest" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,bun,vite,tailwind,materialui,threejs&perline=10" alt="Frontend & Runtime" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=ruby,rails,python,java,rust,postgres,dynamodb,aws,cloudflare,vercel&perline=10" alt="Backend & Cloud" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=docker,godot,git,github,githubactions,linux,figma,jest,vitest&perline=10" alt="Tools" />
   </a>
 </div>
 
@@ -31,9 +35,10 @@ My greatest strategic differentiator is the advanced integration of **Artificial
 
 ### 🏗️ Architecture & Quality
 * **Software Design:** Domain-Driven Design (DDD), Feature-Sliced Design (FSD), Serverless Architectures.
-* **State & Data Management:** Zustand, TanStack Query, Zod.
-* **DevOps & Mobile:** Expo (SDK 55+), EAS Build, OTA Updates, CI/CD.
-* **Best Practices:** Test-Driven Development (TDD), TypeScript in *strict mode*, Clean Code.
+* **State & Data Management:** Zustand, TanStack Query, Zod, Valibot, Drizzle ORM.
+* **Backend:** Ruby on Rails 8 (Solid Queue/Cache/Cable), Hono on Cloudflare Workers (D1, R2), Bun, OpenAPI.
+* **DevOps & Mobile:** Expo (SDK 57), EAS Build, OTA Updates, Kamal, Docker, GitHub Actions CI/CD.
+* **Best Practices:** Test-Driven Development (TDD), TypeScript in *strict mode*, oxlint, Playwright, Clean Code.
 
 ---
 
@@ -51,8 +56,9 @@ I build software using state-of-the-art AI tools to accelerate delivery without 
 ## 🏆 Key Experience & Projects
 
 ### 📱 **Avante7 Tecnologia - Mobile CRM & Institutional Platform**
-- **Ecosystem:** React Native, Next.js 16, TypeScript, Zustand, Tailwind CSS.
+- **Ecosystem:** React Native, Expo, Next.js 16, TypeScript, Bun, Zustand, TanStack Query, Tailwind CSS.
 - **Impact:** Technical lead for building the mobile application from scratch. Defined the core architecture (FSD/DDD), implemented strict data validation schemas (Zod), and autonomously managed CI/CD pipelines (EAS Build / OTA) for official Apple and Google store releases.
+- **Avante7 Web:** The web platform and BFF of the ecosystem, built with Next.js 16 (App Router, Turbopack), React 19 + React Compiler, TypeScript 7 native, Tailwind v4 and Bun end to end, shipped as a standalone Docker image. It covers CRM, conversations and messaging (Socket.IO), an AI assistant, inventory, finance, goals and dashboards, plans and checkout, and partner and branch management. **The code is written by AI agents**: I review and merge, and deterministic gates (lint, types, tests, custom oxlint plugin) enforce the architecture so it stays consistent no matter which agent writes it.
 
 ### 🎮 **Inside Code Ltda. - GunBound Admin Panel**
 - **Ecosystem:** Next.js 15, TypeScript, AWS (Lambda, API Gateway, DynamoDB, Cognito).
@@ -61,6 +67,21 @@ I build software using state-of-the-art AI tools to accelerate delivery without 
 ### ⚙️ **Automic Jr. - Event Management System**
 - **Ecosystem:** React Native, Expo, Node.js, Python, Pipefy API.
 - **Impact:** Delivered an effective mobile solution for real-time QR code credentialing and automated reporting, successfully bridging multiple business sectors.
+
+### 🎓 **SEEM XXIII (UFOP) - Official Event Platform**
+Full platform for the XXIII Semana de Estudos da Escola de Minas, built through Automic Jr. Three repos, one product:
+- **SEEM Backend:** Ruby 3.4, Rails 8.1, PostgreSQL 16, JWT, Solid Queue/Cache/Cable, OpenAPI 3, deployed with Kamal. Registration, schedule, QR code check-in/check-out, attendance and PDF certificates, push notifications, realtime and an audited admin API.
+- **SEEM Mobile:** Expo 57, React Native 0.86, TypeScript, Expo Router, TanStack Query, NativeWind, Bun. Live schedule, QR code badge, biometric login, push, staff check-in scanner.
+- **SEEM Admin Panel:** React 19, Vite, MUI 6, React Hook Form + Zod. Dashboards with metrics and charts, reports and event management for the organizing team.
+
+### 🧱 **Stack Sênior - Next.js 16 Boilerplate for AI-Assisted Development**
+- **Ecosystem:** Next.js 16, React 19, TypeScript, Tailwind v4, Valibot, Bun, oxlint, Vercel.
+- **Impact:** A premium boilerplate where the AI builds following *your* standards, not its own: architecture docs, code patterns and quality gates baked in. Includes the sales landing (built with the method itself) and **Drakkar**, a Nordic voxel survival game in the browser built on top of the base with Three.js.
+
+### 🧪 **Other Projects**
+- 📺 **[Início Simples](https://github.com/fabriciosiqueira08/inicio-simples-tv):** Lightweight, ad-free home screen for Android TV / Google TV in plain Java, no Gradle.
+- 🎮 **Magicode:** Game built with Godot (GDScript).
+- 📐 **[Optimization Project](https://github.com/fabriciosiqueira08/trabalho-final-otimizacao):** Mathematical modeling with AMPL at UFOP.
 
 ---
 
